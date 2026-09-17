@@ -27,3 +27,7 @@ Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
 2. Zum Entpacken eine Zip-Software wie Beispielsweise [7-Zip](https://www.7-zip.de/) nutzen.
 3. Die Datei ``German.lng`` in das Verzeichnis ``\Languages`` des Installationsordners von _Just Manager_ kopieren.
 4. Im Menü ``Configuration`` → ``Settings...`` → ``General`` → ``Language`` die Sprachdatei ``German.lng`` wählen.
+
+---
+
+[KLiNG0NE@GitHub](https://github.com/KLiNG0NE) / [Just-Manager-DE](https://github.com/KLiNG0NE/Just-Manager-DE)
