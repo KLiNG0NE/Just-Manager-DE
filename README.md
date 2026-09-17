@@ -18,7 +18,8 @@ Just Manager ist ein funktionsreicher, vielseitiger Dateimanager mit mehreren Re
 
 Um die hier angebotenen Sprachdateien zu nutzen, muss das Original-Programm zunächst installiert werden. Das Programm kann auf der Website des Entwicklers kostenlos herunter geladen werden.
 
-Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
+- Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
+- Download: [justmanager.ru](https://justmanager.ru/downloads/)
 
 ## Installation ##
 
@@ -30,7 +31,7 @@ Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
 4. Die Datei ``German.lng`` in das Verzeichnis ``\Languages`` des Installations-Ordners von _Just Manager_ entpacken/kopieren.
    > Standardmäßig werden Programme in Windows unter ``C:\Programme\`` installiert.
 5. Im Menü ``Configuration`` → ``Settings...`` → ``General`` → ``Language`` die Sprachdatei ``German.lng`` wählen.
-   > Dies entspricht der Vorgehensweise bei _English_ als voreingestellter Sprache. Ggf anpassen.
+   > Die Bezeichnungen entsprechen _English_ als voreingestellter Sprache. Dies muss nat. bei einer anderen Sprache angepasst werden.
 ---
 
 [KLiNG0NE@GitHub](https://github.com/KLiNG0NE) / [Just-Manager-DE](https://github.com/KLiNG0NE/Just-Manager-DE)
