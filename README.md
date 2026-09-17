@@ -2,6 +2,14 @@
 
 Deutsche Sprachdateien für den Dateimanager **Just Manager** / German Language Files for the file manager **Just Manager**
 
+---
+
+- [Just Manager](#just-manager)
+- [Website](#website)
+- [Installation](#installation)
+
+---
+
 ## Just Manager ##
 
 Just Manager ist ein funktionsreicher, vielseitiger Dateimanager mit mehreren Registerkarten und Fenstern für das Windows-Betriebssystem. Er ist sowohl in einer x86- als auch in einer x64-Version erhältlich. Trotz seiner zahlreichen Funktionen ist er relativ klein und effizient.
