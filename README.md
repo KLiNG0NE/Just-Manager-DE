@@ -8,7 +8,7 @@ Just Manager ist ein funktionsreicher, vielseitiger Dateimanager mit mehreren Re
 
 ## Website ##
 
-Um die hier angebotenen Sprachdateien zu nutzen, muss das Original-Programm zunächst installiert werden. Das Original-Programm kann auf der Website des Entwicklers kostenlos herunter geladen werden.
+Um die hier angebotenen Sprachdateien zu nutzen, muss das Original-Programm zunächst installiert werden. Das Programm kann auf der Website des Entwicklers kostenlos herunter geladen werden.
 
 Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
 
