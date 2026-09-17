@@ -27,7 +27,7 @@ Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
    > Die Dateien ``Source code (zip)`` sowie ``Source code (tar.gz)`` werden nicht benötigt.
 3. Zum Öffnen ein Packprogramm wie Beispielsweise [7-Zip](https://www.7-zip.de/) nutzen.
 4. Die Datei ``German.lng`` in das Verzeichnis ``\Languages`` des Installationsordners von _Just Manager_ entpacken/kopieren.
-5. Im Menü ``Configuration`` → ``Settings...`` → ``General`` → ``Language`` die Sprachdatei ``German.lng`` wählen.
+5. Im Menü ``Configuration`` → ``Settings...`` → ``General`` → ``Language`` die Sprachdatei ``German.lng`` wählen.
 
 ---
 
