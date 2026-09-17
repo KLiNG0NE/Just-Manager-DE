@@ -2,9 +2,13 @@
 
 Sprachdateien für Just Manager / Language Files for Just Manager
 
-## Just Manager Website ##
+## Just Manager ##
 
-Das Original-Programm kann auf der Website des Entwicklers herunter geladen werden.
+Just Manager ist ein funktionsreicher, vielseitiger Dateimanager mit mehreren Registerkarten und Fenstern für das Windows-Betriebssystem. Er ist sowohl in einer x86- als auch in einer x64-Version erhältlich. Trotz seiner zahlreichen Funktionen ist er relativ klein und effizient.
+
+## Website ##
+
+Um die hier angebotenen Sprachdateien zu nutzen, muss das Original-Programm zunächst installiert werden. Das Original-Programm kann auf der Website des Entwicklers kostenlos herunter geladen werden.
 
 Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
 
