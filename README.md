@@ -1,6 +1,6 @@
 # Just-Manager-DE #
 
-Sprachdateien für Just Manager / Language Files for Just Manager
+Deutsche Sprachdateien für den Dateimanager **Just Manager** / German Language Files for the file manager **Just Manager**
 
 ## Just Manager ##
 
