@@ -60,7 +60,7 @@
 		<item id="57">Attribute</item>
 		<item id="58">Datei</item>
 		<item id="59">Schließen</item>
-		<item id="60">Copyright © 2008-2026 NL. Dieses Programm wird ohne jegliche Gewährleistung bereitgestellt. Die Nutzung erfolgt auf eigene Gefahr.</item>
+		<item id="60">Copyright © 2008-2026 NL. Dieses Programm wird ohne jegliche Garantie bereitgestellt. Die Nutzung erfolgt auf eigene Gefahr.</item>
 		<item id="61">Schrift und Farben</item>
 		<item id="62">Panele</item>
 		<item id="63">Schrift</item>
@@ -193,7 +193,7 @@
 		<item id="199">Datei auswählen</item>
 		<item id="200">durchsuchen</item>
 		<item id="201">Informationleiste</item>
-		<item id="202">Ausgewählt</item>
+		<item id="202">ausgewählt</item>
 		<item id="203">Zeige Informationleiste</item>
 		<item id="204">Suche</item>
 		<item id="205">Suche nach Dateien und Verzeichnissen</item>
