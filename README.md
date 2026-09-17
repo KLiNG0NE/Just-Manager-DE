@@ -10,5 +10,7 @@ Website: [justmanager.ru](https://justmanager.ru/ "https://justmanager.ru")
 
 ## Installation ##
 
-1. Die Datei ``German.lng`` in das Verzeichnis ``Languages`` im Installationsordner kopieren.
-2. Im Menü ``Configuration`` → ``Settings...`` → ``General`` → ``Language`` die Sprachdatei ``German.lng`` wählen.
+1. Die Datei ``Just-Manager-DE-[XXX].zip`` aus dem Bereich Releases herunterladen.  
+   ``[XXX]`` = Abhängig von der jeweiligen Version. – Die Dateien ``Source code (zip)`` sowie ``Source code (tar.gz)`` werden nicht benötigt.
+3. Die Datei ``German.lng`` in das Verzeichnis ``\Languages`` des Installationsordners von _Just Manager_ kopieren.
+4. Im Menü ``Configuration`` → ``Settings...`` → ``General`` → ``Language`` die Sprachdatei ``German.lng`` wählen.
